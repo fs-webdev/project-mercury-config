@@ -1,0 +1,27 @@
+{
+  "name": "project-mercury-config",
+  "version": "0.0.0",
+  "description": "A config repo template for a project-mercury performance test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spacerockzero/project-mercury-config.git"
+  },
+  "keywords": [
+    "performance",
+    "testing",
+    "project",
+    "mercury",
+    "webperf",
+    "perfmatters"
+  ],
+  "author": "Jakob Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacerockzero/project-mercury-config/issues"
+  },
+  "homepage": "https://github.com/spacerockzero/project-mercury-config"
+}
